@@ -1,0 +1,4 @@
+﻿  Main_EmptyViewer.cpp
+C:\Users\82103\Desktop\cg_hw8_Q1\EmptyViewer\Main_EmptyViewer.cpp(119,26): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82103\Desktop\cg_hw8_Q1\EmptyViewer\Main_EmptyViewer.cpp(124,26): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  EmptyViewer.vcxproj -> C:\Users\82103\Desktop\cg_hw8_Q1\bin\EmptyViewer.exe
